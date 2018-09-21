@@ -1,0 +1,13 @@
+C:\Desarrollos\Welp 3.0\Welp\Model\bin\Debug\Model.dll.config
+C:\Desarrollos\Welp 3.0\Welp\Model\bin\Debug\Model.dll
+C:\Desarrollos\Welp 3.0\Welp\Model\bin\Debug\Model.pdb
+C:\Desarrollos\Welp 3.0\Welp\Model\bin\Debug\EntityFramework.dll
+C:\Desarrollos\Welp 3.0\Welp\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Desarrollos\Welp 3.0\Welp\Model\bin\Debug\EntityFramework.xml
+C:\Desarrollos\Welp 3.0\Welp\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Desarrollos\Welp 3.0\Welp\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Desarrollos\Welp 3.0\Welp\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Desarrollos\Welp 3.0\Welp\Model\obj\Debug\Model.dll
+C:\Desarrollos\Welp 3.0\Welp\Model\obj\Debug\Model.pdb
+C:\Desarrollos\Welp 3.0\Welp\Model\obj\Debug\Model.Migrations.inicial.resources
+C:\Desarrollos\Welp 3.0\Welp\Model\obj\Debug\Model.csproj.GenerateResource.cache
